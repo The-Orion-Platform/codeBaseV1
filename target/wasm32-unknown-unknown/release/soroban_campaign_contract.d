@@ -1,0 +1,1 @@
+C:\Users\umair\Documents\Software\ Projects\The\ Orion\ Platform\target\wasm32-unknown-unknown\release\soroban_campaign_contract.wasm: C:\Users\umair\Documents\Software\ Projects\The\ Orion\ Platform\contracts\campaign\src\lib.rs
