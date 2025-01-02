@@ -21,3 +21,5 @@ git clone https://github.com/The-Orion-Platform/codeBaseV1.git
 7. Build the contract: bash
 cd contracts/campaign
 stellar contract build
+
+A bunch of other stuff icba to explain 
